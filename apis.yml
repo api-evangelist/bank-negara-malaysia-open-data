@@ -1,0 +1,32 @@
+aid: bank-negara-malaysia-open-data
+name: Bank Negara Malaysia Open Data
+description: "Malaysia Central Bank Open Data"
+url: https://apikijangportal.bnm.gov.my/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Government"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Government
+  - Public APIs
+apis:
+  - name: Bank Negara Malaysia Open Data
+    description: "Malaysia Central Bank Open Data"
+    humanURL: https://apikijangportal.bnm.gov.my/
+    baseURL: https://apikijangportal.bnm.gov.my/
+    tags:
+      - Government
+    properties:
+      - type: Documentation
+        url: https://apikijangportal.bnm.gov.my/
+common:
+  - type: Website
+    url: https://apikijangportal.bnm.gov.my/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
