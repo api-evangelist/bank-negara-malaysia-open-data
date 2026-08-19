@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/bank-negar
 name: Bank Negara Malaysia Open Data
 description: "Malaysia Central Bank Open Data"
 url: https://apikijangportal.bnm.gov.my/
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
