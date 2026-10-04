@@ -39,7 +39,6 @@ apis:
   - name: Bank Negara Malaysia Open Data
     description: "Malaysia Central Bank Open Data"
     humanURL: https://apikijangportal.bnm.gov.my/
-    baseURL: https://apikijangportal.bnm.gov.my/
     tags:
       - Government
     properties:
